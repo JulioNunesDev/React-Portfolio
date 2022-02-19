@@ -1,0 +1,14 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  scroll-behavior: smooth
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&family=Roboto:ital,wght@0,400;0,500;0,900;1,100&display=swap');
+
+:root{
+  --font-Fira: 'Fira Sans', sans-serif;
+  --font-roboto: 'Roboto', sans-serif;
+}
